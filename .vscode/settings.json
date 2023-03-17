@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "indentRainbow.colorOnWhiteSpaceOnly": false,
+  "auto-rename-tag.activationOnLanguage": [
+    
+    "*"]
+}
